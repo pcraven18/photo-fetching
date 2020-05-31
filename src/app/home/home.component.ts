@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { ImagesService } from '../images.service';
-import { ThrowStmt } from '@angular/compiler';
+
 
 @Component({
   selector: 'app-home',
